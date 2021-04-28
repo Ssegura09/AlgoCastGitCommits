@@ -11,3 +11,15 @@ function fizzBuzz(n) {
     }
   }
 }
+
+// function test(string){
+
+//   for(let i =0; i < string.length; i++){
+//     if (string == "Steph"){
+//       return 'BooBooBooster'
+//     } else {
+//       return string;
+//     }
+//   }
+// }
+// string(["Steph", "Mike"])
