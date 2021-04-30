@@ -23,3 +23,15 @@ function test(string){
   }
 }
 string(["Steph", "Mike"])
+
+function test(obj){
+
+  for(let i =0; i < string.length; i++){
+    if (string == "Steph"){
+      return 'BooBooBooster'
+    } else {
+      return string;
+    }
+  }
+}
+string(["Steph", "Mike"])
